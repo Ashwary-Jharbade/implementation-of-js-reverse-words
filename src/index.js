@@ -41,3 +41,6 @@ console.log(reverseWords("asts77hg8jsgtred5lyaass")); // stsa77gh8dertgsj5ssaayl
 console.log(reverseWords("123")); // 123
 console.log(reverseWords("asd")); // dsa
 console.log(reverseWords("asd1f")); // dsa1f
+console.log(reverseWords("abc23de")); // cba23ed
+console.log(reverseWords("1ab")); // 1ba
+console.log(reverseWords("123")); // 123
